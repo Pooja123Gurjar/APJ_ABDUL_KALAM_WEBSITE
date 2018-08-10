@@ -1,0 +1,36 @@
+.image{
+	text-align: left;
+	margin-right: 200px;
+}
+aside{
+	background-color: #ADD8E6;
+	height: 50px;
+	text-align: right;
+	margin-top: 0;
+}
+header{
+	width: 1500px;
+	height: 100px;
+	background-color:#ADD8E6;
+}
+.b2{
+	font-size: 30px;
+	color: red;
+	
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-align: inline;
+}
+ul li{
+	float: right;
+	width: 200px;
+	height: 40px;
+	background-color: #ADD8E6;
+	display:inline;
+	text-decoration: none;
+}
+
